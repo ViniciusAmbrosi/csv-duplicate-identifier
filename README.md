@@ -13,7 +13,7 @@ Please ensure you have ptyhon3 isntalled and accessible from your CLI
 
 In ordet to execute the code you need have the virtualenv instance activate.
 
-You can achieve this by either running: _**envconfig.sh**_ or _**csvvalidatorenv/bin/activate**_
+You can achieve this by either running: _**envconfig.sh**_ or _**source csvvalidatorenv/bin/activate**_
 
 The script accepts and requires two parameters in order to execute
 
