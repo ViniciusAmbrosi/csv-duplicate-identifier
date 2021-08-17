@@ -22,8 +22,8 @@ The script accepts and requires two parameters in order to execute
 3. Second argument is the column to be used for the evaluator
   a. For Exmaple: 1
   
-An example of the execution is: python3 csvEmailValidator.py /Users/{Your_Username}/Projects/emailIdValidator/sample.csv 0
+An example of the execution is: python3 csvDuplicateRowsFinder.py /Users/{Your_Username}/Projects/emailIdValidator/sample.csv 0
 
 ## Running sample test case
 
-Run on CLI python3 csvEmailValidator.py {YOURPATH}/sample.csv 0
+Run on CLI python3 csvDuplicateRowsFinder.py {YOURPATH}/sample.csv 0
