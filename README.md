@@ -6,8 +6,8 @@ Please ensure you have ptyhon3 isntalled and accessible from your CLI
 
 ## For Local Setup & Configuration
 
-1. Run . ./setupvirtualenv.sh to isntall virtual env for python3 and configure a virtualenv instance
-2. Run . ./envconfig.sh to activate virtualenv instance and install dependencies
+1. Run . ./setupvirtualenv.sh to install virtual env for python3 and configure a virtual env instance
+2. Run . ./envconfig.sh to activate virtual env instance and install dependencies
 
 ## Usage and Execution
 
