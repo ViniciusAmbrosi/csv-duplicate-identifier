@@ -17,10 +17,8 @@ You can achieve this by either running: _**. ./envconfig.sh**_ or _**source csvv
 
 The script accepts and requires two parameters in order to execute
 
-1. First argument is the absolute file path 
-  a. For example: /Users/{Your_Username}/Projects/emailIdValidator/sample.csv
-3. Second argument is the column to be used for the evaluator 
-  a. For Exmaple: 1
+1. First argument is the absolute file path. _**For example:**_ /Users/{Your_Username}/Projects/emailIdValidator/sample.csv
+2. Second argument is the column to be used for the evaluator. _**For example:**_ 1
   
 An example of the execution is: python3 csvDuplicateRowsFinder.py /Users/{Your_Username}/Projects/emailIdValidator/sample.csv 0
 
