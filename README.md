@@ -11,7 +11,7 @@ Please ensure you have ptyhon3 isntalled and accessible from your CLI
 
 ## Usage and Execution
 
-In ordet to execute the code you need have the virtualenv instance activate.
+In ordet to execute the code you need have the virtualenv instance active.
 
 You can achieve this by either running: _**envconfig.sh**_ or _**source csvvalidatorenv/bin/activate**_
 
