@@ -20,7 +20,6 @@ try:
     emails = set()
 
     for row in csv_values:
-        print(row)
         email_address = row[field_column]
         if(emails.__contains__(email_address)):
             print("Conflicting column with value as: " + email_address)
